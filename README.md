@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gkdud583/gkdud583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ha%20young&fontSize=90)
+ <h1> Hi there 👋</h1>
+ </div>
+<div align="center">
+ 
+<!--   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ha%20young&fontSize=90) -->
 
   [![hayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdud583&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
