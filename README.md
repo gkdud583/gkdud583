@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
  
 <!--   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ha%20young&fontSize=90) -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdud583&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=gkdud583&show_icons=true">
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkdud583)](https://solved.ac/yoon828990)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdud583&show_icons=true&theme=radical)
 </div>
